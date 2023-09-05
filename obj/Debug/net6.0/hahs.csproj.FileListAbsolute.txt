@@ -1,0 +1,15 @@
+C:\Users\frais\hahs\bin\Debug\net6.0\hahs.exe
+C:\Users\frais\hahs\bin\Debug\net6.0\hahs.deps.json
+C:\Users\frais\hahs\bin\Debug\net6.0\hahs.runtimeconfig.json
+C:\Users\frais\hahs\bin\Debug\net6.0\hahs.dll
+C:\Users\frais\hahs\bin\Debug\net6.0\hahs.pdb
+C:\Users\frais\hahs\obj\Debug\net6.0\hahs.csproj.AssemblyReference.cache
+C:\Users\frais\hahs\obj\Debug\net6.0\hahs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frais\hahs\obj\Debug\net6.0\hahs.AssemblyInfoInputs.cache
+C:\Users\frais\hahs\obj\Debug\net6.0\hahs.AssemblyInfo.cs
+C:\Users\frais\hahs\obj\Debug\net6.0\hahs.csproj.CoreCompileInputs.cache
+C:\Users\frais\hahs\obj\Debug\net6.0\hahs.dll
+C:\Users\frais\hahs\obj\Debug\net6.0\refint\hahs.dll
+C:\Users\frais\hahs\obj\Debug\net6.0\hahs.pdb
+C:\Users\frais\hahs\obj\Debug\net6.0\hahs.genruntimeconfig.cache
+C:\Users\frais\hahs\obj\Debug\net6.0\ref\hahs.dll
